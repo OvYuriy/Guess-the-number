@@ -49,5 +49,5 @@ def game_body():
     check_answer()
 
 
-print(game_body())
+game_body()
 input('Для выхода нажмите ENTER')
